@@ -15,7 +15,7 @@ demo : [downloader_star_bot](https://t.me/downloader_star_bot)
 
 * Heroku :
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/musa-42/stream-cloud)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prxpostern/stream-cloud)
 
     `git clone https://github.com/musa-42/stream-cloud`
     
